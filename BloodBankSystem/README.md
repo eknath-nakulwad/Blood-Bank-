@@ -1,7 +1,4 @@
 # Blood Bank & Donor Management System
-**B.Tech IT Project | M.S. Bidve Engineering College, Latur**
-**Students:** Sumedh Sadashiv Gaikwad (35) & Eknath Shankar Nakulwad (40)
-**Guide:** Prof. O. M. Patil
 
 ---
 
